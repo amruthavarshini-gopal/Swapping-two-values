@@ -30,7 +30,8 @@ b=c
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![output](<swaping ex.png>)
+
+![Alt text](<swaping ex.png>)
 
 
 
